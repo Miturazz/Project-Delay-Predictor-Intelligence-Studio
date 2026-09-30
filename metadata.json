@@ -1,0 +1,6 @@
+{
+  "name": "ChronosML - Project Delay Predictor & Intelligence Studio",
+  "description": "Enterprise machine learning platform predicting large-scale project delays and schedule slippage using historical management data, team productivity, and organizational size metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
