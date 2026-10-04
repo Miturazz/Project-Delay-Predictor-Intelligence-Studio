@@ -32,5 +32,5 @@ To test or run the application on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ChronosML.git](https://github.com/YOUR_USERNAME/ChronosML.git)
+   git clone [https://github.com/YOUR_USERNAME/ChronosML.git](https://github.com/Miturazz/ChronosML.git)
    cd ChronosML
